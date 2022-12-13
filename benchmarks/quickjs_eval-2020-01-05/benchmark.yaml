@@ -1,0 +1,3 @@
+fuzz_target: fuzz_eval
+project: quickjs
+unsupported_fuzzers:
